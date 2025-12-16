@@ -1,0 +1,699 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "db751f7b-eeef-4f9a-a021-6b6484a5d83e")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 238.76 114.3) (xy 238.76 147.32)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "12ca3dfb-c80d-44cf-aa88-69e5bc4b5e26")
+	)
+	(wire
+		(pts
+			(xy 185.42 121.92) (xy 180.34 121.92)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "241e8db5-16b5-4d38-9679-91815ef135a2")
+	)
+	(wire
+		(pts
+			(xy 241.3 116.84) (xy 241.3 149.86)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "27d8d813-169a-448c-b5d0-6616527cc7e3")
+	)
+	(wire
+		(pts
+			(xy 251.46 111.76) (xy 236.22 111.76)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "3046ff7e-d5ce-491b-97d8-bff66654c29e")
+	)
+	(wire
+		(pts
+			(xy 246.38 154.94) (xy 52.07 154.94)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "34050894-1ae3-490d-9198-1ee6713956a2")
+	)
+	(wire
+		(pts
+			(xy 238.76 147.32) (xy 185.42 147.32)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "463d5f36-7731-4125-ad4e-8e9d0c21e575")
+	)
+	(wire
+		(pts
+			(xy 251.46 121.92) (xy 246.38 121.92)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "46b16d2f-c7b6-4b5a-a223-e0a28b63a93b")
+	)
+	(wire
+		(pts
+			(xy 96.52 121.92) (xy 91.44 121.92)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "5b1f82f3-8052-484d-ae8e-79c5b4c83b3a")
+	)
+	(wire
+		(pts
+			(xy 52.07 121.92) (xy 46.99 121.92)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "6199a698-3fa7-4bf5-8703-0f01037dcad3")
+	)
+	(wire
+		(pts
+			(xy 236.22 121.92) (xy 224.79 121.92)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "6ba54c87-19cd-4b83-b782-1e58d6eaa1c2")
+	)
+	(wire
+		(pts
+			(xy 241.3 149.86) (xy 140.97 149.86)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "7b0e0db9-25c7-47e1-be11-dc3f96fd0b73")
+	)
+	(wire
+		(pts
+			(xy 246.38 121.92) (xy 246.38 154.94)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "80bc61e0-9880-41a2-94cb-fbd3a5bbca25")
+	)
+	(wire
+		(pts
+			(xy 243.84 152.4) (xy 96.52 152.4)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "8d297338-48d2-4432-80fb-413aa70951cc")
+	)
+	(wire
+		(pts
+			(xy 251.46 119.38) (xy 243.84 119.38)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "8fe7932a-9b1a-476d-89c2-b358cfc670cd")
+	)
+	(wire
+		(pts
+			(xy 251.46 116.84) (xy 241.3 116.84)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "9027a796-2eaf-4f49-b69c-c7491200f536")
+	)
+	(wire
+		(pts
+			(xy 96.52 152.4) (xy 96.52 121.92)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "a7a2df9b-f254-4b30-89d5-60fe575911b3")
+	)
+	(wire
+		(pts
+			(xy 140.97 121.92) (xy 135.89 121.92)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "a7a81133-36f0-4fd1-989a-c9f543c393dd")
+	)
+	(wire
+		(pts
+			(xy 185.42 147.32) (xy 185.42 121.92)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "ad7ce550-948d-4f8c-b03e-6cb767020f0e")
+	)
+	(wire
+		(pts
+			(xy 251.46 114.3) (xy 238.76 114.3)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "c27c4bbd-599a-4100-9221-d296cc206a4b")
+	)
+	(wire
+		(pts
+			(xy 236.22 111.76) (xy 236.22 121.92)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "c732c816-970b-4842-b5f7-e65bad8db282")
+	)
+	(wire
+		(pts
+			(xy 140.97 149.86) (xy 140.97 121.92)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "dedadf18-db33-4f31-8b09-f733d8b03bda")
+	)
+	(wire
+		(pts
+			(xy 52.07 154.94) (xy 52.07 121.92)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "e13d7b22-ebcd-4de7-99c8-ff9864737b67")
+	)
+	(wire
+		(pts
+			(xy 243.84 119.38) (xy 243.84 152.4)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "e4656826-54d1-4016-9ac5-a8ed3bcbfa35")
+	)
+	(sheet
+		(at 118.11 74.93)
+		(size 17.78 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 132 0 132 0.0400)
+		)
+		(uuid "03cf233d-0b6f-4881-9118-00d5e70aef4c")
+		(property "Sheetname" "Slot 3"
+			(at 118.11 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "3.kicad_sch"
+			(at 118.11 126.3146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "5V0" input
+			(at 135.89 121.92 0)
+			(uuid "f97c5f68-ea57-4006-a06a-ae236a5c80ea")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN0{CAN}" bidirectional
+			(at 135.89 78.74 0)
+			(uuid "1ab495d7-5255-4585-b915-071484d7ed4e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "CUTIE-BACKPLANE"
+				(path "/db751f7b-eeef-4f9a-a021-6b6484a5d83e"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 29.21 74.93)
+		(size 17.78 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 132 0 132 0.0400)
+		)
+		(uuid "06e9b450-f64e-4e09-913b-4e56cde89f94")
+		(property "Sheetname" "Slot 1"
+			(at 29.21 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "1.kicad_sch"
+			(at 29.21 126.3146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "5V0" input
+			(at 46.99 121.92 0)
+			(uuid "e301d179-22ee-40a1-8dda-0e30993db144")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN0{CAN}" bidirectional
+			(at 46.99 78.74 0)
+			(uuid "c7ed8dc4-6d7e-427c-a44d-0c1759d7fae1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SPI1{SPI}" bidirectional
+			(at 46.99 93.98 0)
+			(uuid "dd8847b9-26e6-4782-a2c9-2cd18ef02045")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB3{USB3}" bidirectional
+			(at 46.99 102.87 0)
+			(uuid "8963d6be-8d8f-4f22-8e56-f3e2b3fa7094")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "CUTIE-BACKPLANE"
+				(path "/db751f7b-eeef-4f9a-a021-6b6484a5d83e"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 73.66 74.93)
+		(size 17.78 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 132 0 132 0.0400)
+		)
+		(uuid "1517a56f-05c2-4954-ae14-be81e813494c")
+		(property "Sheetname" "Slot 2"
+			(at 73.66 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "2.kicad_sch"
+			(at 73.66 126.3146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "5V0" input
+			(at 91.44 121.92 0)
+			(uuid "7a6b5926-93af-4745-b960-fc15ecfb34a7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN0{CAN}" bidirectional
+			(at 91.44 78.74 0)
+			(uuid "7e7d8b06-d5bf-4d0b-99e4-1fe4b687673e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "CUTIE-BACKPLANE"
+				(path "/db751f7b-eeef-4f9a-a021-6b6484a5d83e"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 162.56 74.93)
+		(size 17.78 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 132 0 132 0.0400)
+		)
+		(uuid "4176502d-441f-42e4-ad8f-293b8eee2788")
+		(property "Sheetname" "Slot 4"
+			(at 162.56 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "4.kicad_sch"
+			(at 162.56 126.3146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "5V0" input
+			(at 180.34 121.92 0)
+			(uuid "5ebb4192-7292-497f-b275-349ecba96998")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN0{CAN}" bidirectional
+			(at 180.34 78.74 0)
+			(uuid "4ed0e7c4-6077-4ad8-a720-d4495a8bf177")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "CUTIE-BACKPLANE"
+				(path "/db751f7b-eeef-4f9a-a021-6b6484a5d83e"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 251.46 74.93)
+		(size 17.78 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 132 0 132 0.0400)
+		)
+		(uuid "5d57494b-e2eb-4102-8e3d-493d9414839f")
+		(property "Sheetname" "Slot 6"
+			(at 251.46 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "6.kicad_sch"
+			(at 251.46 126.3146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CAN0{CAN}" bidirectional
+			(at 269.24 78.74 0)
+			(uuid "7eb70e96-5a58-4a1a-b048-608942ff7cd8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "5V0_1" output
+			(at 251.46 121.92 180)
+			(uuid "b8e490d8-0c8c-4eaa-93a1-1ae677e87d23")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "5V0_2" output
+			(at 251.46 119.38 180)
+			(uuid "14839e8c-38a8-41a0-85fd-537436e034f5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "5V0_3" output
+			(at 251.46 116.84 180)
+			(uuid "ca6db16b-4a0b-4c6d-bbb1-bf8e60e5f41d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "5V0_4" output
+			(at 251.46 114.3 180)
+			(uuid "c80f7f6d-18ad-46fc-ba1f-d9532ef67998")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "5V0_5" output
+			(at 251.46 111.76 180)
+			(uuid "03f740d4-86a9-4c17-8384-b09c31665ae6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "CUTIE-BACKPLANE"
+				(path "/db751f7b-eeef-4f9a-a021-6b6484a5d83e"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 207.01 74.93)
+		(size 17.78 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 132 0 132 0.0400)
+		)
+		(uuid "f5271d52-4fbc-4595-8974-1fc739eb5ad7")
+		(property "Sheetname" "Slot 5"
+			(at 207.01 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "5.kicad_sch"
+			(at 207.01 126.3146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "5V0" input
+			(at 224.79 121.92 0)
+			(uuid "d55f1121-b66e-4950-9a79-4727b6fae8bf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN0{CAN}" bidirectional
+			(at 224.79 78.74 0)
+			(uuid "77ef77e6-acf6-4a4d-b6f4-7d8f1b293ce1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "CUTIE-BACKPLANE"
+				(path "/db751f7b-eeef-4f9a-a021-6b6484a5d83e"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
