@@ -75,7 +75,7 @@
 							)
 						)
 					)
-					(number "1"
+					(number "01"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -93,7 +93,7 @@
 							)
 						)
 					)
-					(number "3"
+					(number "03"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -111,7 +111,7 @@
 							)
 						)
 					)
-					(number "5"
+					(number "05"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -129,7 +129,7 @@
 							)
 						)
 					)
-					(number "7"
+					(number "07"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -147,7 +147,7 @@
 							)
 						)
 					)
-					(number "9"
+					(number "09"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -525,7 +525,7 @@
 							)
 						)
 					)
-					(number "2"
+					(number "02"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -543,7 +543,7 @@
 							)
 						)
 					)
-					(number "4"
+					(number "04"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -561,7 +561,7 @@
 							)
 						)
 					)
-					(number "6"
+					(number "06"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -579,7 +579,7 @@
 							)
 						)
 					)
-					(number "8"
+					(number "08"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2566,16 +2566,16 @@
 		(pin "10"
 			(uuid "7835cf9a-a37b-4118-a059-7c9bd949d85f")
 		)
-		(pin "8"
+		(pin "01"
 			(uuid "1693c3fb-3370-4d7d-b709-2848e22bf39e")
 		)
-		(pin "6"
+		(pin "03"
 			(uuid "27e0b281-6de1-44b3-b94c-34bd308a2553")
 		)
-		(pin "4"
+		(pin "05"
 			(uuid "46264a2b-cdeb-4393-b1b8-9889734a1b7d")
 		)
-		(pin "2"
+		(pin "07"
 			(uuid "55baec40-142b-4106-8705-33657a4a042c")
 		)
 		(pin "40"
@@ -2635,19 +2635,19 @@
 		(pin "11"
 			(uuid "90dd270b-cac0-4048-a710-bc4d900b3f01")
 		)
-		(pin "9"
+		(pin "09"
 			(uuid "c049f975-b89e-48d5-9bef-7af2da9feaab")
 		)
-		(pin "7"
+		(pin "02"
 			(uuid "9c177940-d7ee-493e-829a-2a2f9d08f75b")
 		)
-		(pin "5"
+		(pin "04"
 			(uuid "ac442c9f-bc13-4d9d-a57b-50ab3ac3953e")
 		)
-		(pin "3"
+		(pin "06"
 			(uuid "1f9ee4b5-f446-485a-adc6-61db0560016f")
 		)
-		(pin "1"
+		(pin "08"
 			(uuid "88f4917a-f2bc-4672-acfb-b5a5ecfe8ac9")
 		)
 		(pin "33"

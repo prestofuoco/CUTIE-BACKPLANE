@@ -75,7 +75,7 @@
 							)
 						)
 					)
-					(number "1"
+					(number "01"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -93,7 +93,7 @@
 							)
 						)
 					)
-					(number "3"
+					(number "03"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -111,7 +111,7 @@
 							)
 						)
 					)
-					(number "5"
+					(number "05"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -129,7 +129,7 @@
 							)
 						)
 					)
-					(number "7"
+					(number "07"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -147,7 +147,7 @@
 							)
 						)
 					)
-					(number "9"
+					(number "09"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -525,7 +525,7 @@
 							)
 						)
 					)
-					(number "2"
+					(number "02"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -543,7 +543,7 @@
 							)
 						)
 					)
-					(number "4"
+					(number "04"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -561,7 +561,7 @@
 							)
 						)
 					)
-					(number "6"
+					(number "06"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -579,7 +579,7 @@
 							)
 						)
 					)
-					(number "8"
+					(number "08"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2673,16 +2673,16 @@
 		(pin "10"
 			(uuid "7c6a4685-e971-4717-8ce0-e63fa4dda5c6")
 		)
-		(pin "8"
+		(pin "01"
 			(uuid "d9a1ac36-c43b-4102-b09c-1c95c150f1c6")
 		)
-		(pin "6"
+		(pin "03"
 			(uuid "03b0d718-0f73-410a-894a-358ef0bef90a")
 		)
-		(pin "4"
+		(pin "05"
 			(uuid "b0a91621-aad1-4c02-a5b0-dfe732e999ca")
 		)
-		(pin "2"
+		(pin "07"
 			(uuid "086cfa61-220f-481d-8fae-6f570843c8bb")
 		)
 		(pin "40"
@@ -2742,19 +2742,19 @@
 		(pin "11"
 			(uuid "32e4a3c2-47e5-4f56-9316-1c888172ea7a")
 		)
-		(pin "9"
+		(pin "09"
 			(uuid "d8d52f90-3372-4cb8-95ce-6388fc333255")
 		)
-		(pin "7"
+		(pin "02"
 			(uuid "2100e5d0-22fe-480d-8ff4-47528de8121e")
 		)
-		(pin "5"
+		(pin "04"
 			(uuid "e7e63db7-8d22-4edf-abd3-ec7e925d930a")
 		)
-		(pin "3"
+		(pin "06"
 			(uuid "301d4ade-70ca-45a1-8db5-6a559487df31")
 		)
-		(pin "1"
+		(pin "08"
 			(uuid "1b02447d-a8a9-41a0-b4b5-0628dd64afb8")
 		)
 		(pin "33"
@@ -2797,7 +2797,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52596d72-6789-4340-a08c-d56d9b6b77b9")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0101"
 			(at 157.48 140.97 0)
 			(effects
 				(font
@@ -2847,7 +2847,7 @@
 		(instances
 			(project "CUTIE-BACKPLANE"
 				(path "/db751f7b-eeef-4f9a-a021-6b6484a5d83e/5d57494b-e2eb-4102-8e3d-493d9414839f"
-					(reference "#PWR?")
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
@@ -2863,7 +2863,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6080c5d3-0003-4867-a9b8-35f78aa1f22e")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0102"
 			(at 127 140.97 0)
 			(effects
 				(font
@@ -2913,7 +2913,7 @@
 		(instances
 			(project "CUTIE-BACKPLANE"
 				(path "/db751f7b-eeef-4f9a-a021-6b6484a5d83e/5d57494b-e2eb-4102-8e3d-493d9414839f"
-					(reference "#PWR?")
+					(reference "#PWR0102")
 					(unit 1)
 				)
 			)
