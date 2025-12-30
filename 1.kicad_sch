@@ -2337,7 +2337,7 @@
 		)
 		(uuid "258bae36-36d9-42d5-886f-a3c38ac13c24")
 	)
-	(label "CAN0.H"
+	(label "CAN0.P"
 		(at 102.87 71.12 0)
 		(effects
 			(font
@@ -2347,7 +2347,7 @@
 		)
 		(uuid "57b46a17-0057-4539-93a2-ff4cd8c11867")
 	)
-	(label "CAN0.L"
+	(label "CAN0.N"
 		(at 102.87 68.58 0)
 		(effects
 			(font

@@ -2172,6 +2172,16 @@
 		)
 		(uuid "0f032b9c-0580-4b25-91c3-9618e53fa62e")
 	)
+	(label "CAN0.P"
+		(at 102.87 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "10e49ab0-2182-4f50-af05-db07fa133225")
+	)
 	(label "5V0"
 		(at 111.76 121.92 180)
 		(effects
@@ -2222,16 +2232,6 @@
 		)
 		(uuid "9f0f8b33-32b4-43fe-88ec-911d01a23c6e")
 	)
-	(label "CAN0.L"
-		(at 102.87 68.58 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b59ba4d4-adab-41e8-b644-6fc64a3f20ec")
-	)
 	(label "CMRF.MISO"
 		(at 181.61 106.68 180)
 		(effects
@@ -2252,15 +2252,15 @@
 		)
 		(uuid "e22992b3-e64a-4f08-985a-582907ec852c")
 	)
-	(label "CAN0.H"
-		(at 102.87 71.12 0)
+	(label "CAN0.N"
+		(at 102.87 68.58 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "e87d9b21-5eb2-470d-a1fd-e92a24c54bea")
+		(uuid "ebefd0de-97ac-4302-a6d9-e7e60d47a773")
 	)
 	(label "USB3.RX_P"
 		(at 181.61 86.36 180)

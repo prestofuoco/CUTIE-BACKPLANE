@@ -1852,7 +1852,7 @@
 		)
 		(uuid "f66c127e-454b-4aef-be17-690a8bf8b5a1")
 	)
-	(label "CAN0.L"
+	(label "CAN0.N"
 		(at 102.87 68.58 0)
 		(effects
 			(font
@@ -1860,17 +1860,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "17d204c8-c81e-41b2-af28-d9c3cc42b5de")
-	)
-	(label "CAN0.H"
-		(at 102.87 71.12 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4ad3f052-0b25-439b-9daa-ecba17de355a")
+		(uuid "350c9b22-e490-4412-9476-cbdcc389c696")
 	)
 	(label "5V0"
 		(at 111.76 121.92 180)
@@ -1881,6 +1871,16 @@
 			(justify right bottom)
 		)
 		(uuid "a4041e78-4c11-4bab-92b8-c332e6927b3e")
+	)
+	(label "CAN0.P"
+		(at 102.87 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e0f4032f-e81c-48d5-9596-d7677ad1792c")
 	)
 	(hierarchical_label "CAN0{CAN}"
 		(shape bidirectional)

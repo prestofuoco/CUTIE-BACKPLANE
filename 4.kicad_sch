@@ -2008,15 +2008,15 @@
 		)
 		(uuid "30e992fd-da96-473b-b2c7-f7ce3ca74d65")
 	)
-	(label "CAN0.L"
-		(at 102.87 68.58 0)
+	(label "CAN0.P"
+		(at 102.87 71.12 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "40077e12-8be9-4ff2-a7aa-b0730ff6ca7d")
+		(uuid "49f91feb-f7f0-4fc3-9bb8-159f9ffeb1b0")
 	)
 	(label "CMRF.CS0n"
 		(at 181.61 116.84 180)
@@ -2028,6 +2028,16 @@
 		)
 		(uuid "567581da-d137-40f3-a411-a5e6dd664bcb")
 	)
+	(label "CAN0.N"
+		(at 102.87 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "989a51be-1b71-4ccd-b977-e4b92300520e")
+	)
 	(label "CMRF.SCLK"
 		(at 181.61 114.3 180)
 		(effects
@@ -2037,16 +2047,6 @@
 			(justify right bottom)
 		)
 		(uuid "d27cbdb5-f9a3-4dd6-a96c-eef75d908d03")
-	)
-	(label "CAN0.H"
-		(at 102.87 71.12 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d6eff08e-66e5-453f-9fb9-5f6f9a4c29bd")
 	)
 	(hierarchical_label "CMRF{SPI}"
 		(shape bidirectional)
