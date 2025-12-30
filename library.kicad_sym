@@ -23,7 +23,7 @@
 			)
 		)
 		(property "Footprint" "library:SAMTEC_ERF8-025-05.0-L-DV-L-K-TR"
-			(at 0 0 0)
+			(at 0 -41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72,7 +72,7 @@
 						)
 					)
 				)
-				(number "01"
+				(number "50"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -90,7 +90,7 @@
 						)
 					)
 				)
-				(number "03"
+				(number "48"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -108,7 +108,7 @@
 						)
 					)
 				)
-				(number "05"
+				(number "46"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -126,7 +126,7 @@
 						)
 					)
 				)
-				(number "07"
+				(number "44"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -144,7 +144,7 @@
 						)
 					)
 				)
-				(number "09"
+				(number "42"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -162,7 +162,7 @@
 						)
 					)
 				)
-				(number "11"
+				(number "40"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -180,7 +180,7 @@
 						)
 					)
 				)
-				(number "13"
+				(number "38"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -198,7 +198,7 @@
 						)
 					)
 				)
-				(number "15"
+				(number "36"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -216,7 +216,7 @@
 						)
 					)
 				)
-				(number "17"
+				(number "34"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -234,7 +234,7 @@
 						)
 					)
 				)
-				(number "19"
+				(number "32"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -252,7 +252,7 @@
 						)
 					)
 				)
-				(number "21"
+				(number "30"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -270,7 +270,7 @@
 						)
 					)
 				)
-				(number "23"
+				(number "28"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -288,7 +288,7 @@
 						)
 					)
 				)
-				(number "25"
+				(number "26"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -306,7 +306,7 @@
 						)
 					)
 				)
-				(number "27"
+				(number "24"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -324,7 +324,7 @@
 						)
 					)
 				)
-				(number "29"
+				(number "22"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -342,7 +342,7 @@
 						)
 					)
 				)
-				(number "31"
+				(number "20"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -360,7 +360,7 @@
 						)
 					)
 				)
-				(number "33"
+				(number "18"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -378,7 +378,7 @@
 						)
 					)
 				)
-				(number "35"
+				(number "16"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -396,7 +396,7 @@
 						)
 					)
 				)
-				(number "37"
+				(number "14"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -414,7 +414,7 @@
 						)
 					)
 				)
-				(number "39"
+				(number "12"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -432,7 +432,7 @@
 						)
 					)
 				)
-				(number "41"
+				(number "10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -450,7 +450,7 @@
 						)
 					)
 				)
-				(number "43"
+				(number "08"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -468,7 +468,7 @@
 						)
 					)
 				)
-				(number "45"
+				(number "06"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -486,7 +486,7 @@
 						)
 					)
 				)
-				(number "47"
+				(number "04"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -504,7 +504,7 @@
 						)
 					)
 				)
-				(number "49"
+				(number "02"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -522,7 +522,7 @@
 						)
 					)
 				)
-				(number "02"
+				(number "49"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -540,7 +540,7 @@
 						)
 					)
 				)
-				(number "04"
+				(number "47"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -558,7 +558,7 @@
 						)
 					)
 				)
-				(number "06"
+				(number "45"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -576,7 +576,7 @@
 						)
 					)
 				)
-				(number "08"
+				(number "43"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -594,7 +594,7 @@
 						)
 					)
 				)
-				(number "10"
+				(number "41"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -612,7 +612,7 @@
 						)
 					)
 				)
-				(number "12"
+				(number "39"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -630,7 +630,7 @@
 						)
 					)
 				)
-				(number "14"
+				(number "37"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -648,7 +648,7 @@
 						)
 					)
 				)
-				(number "16"
+				(number "35"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -666,7 +666,7 @@
 						)
 					)
 				)
-				(number "18"
+				(number "33"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -684,7 +684,7 @@
 						)
 					)
 				)
-				(number "20"
+				(number "31"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -702,7 +702,7 @@
 						)
 					)
 				)
-				(number "22"
+				(number "29"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -720,7 +720,7 @@
 						)
 					)
 				)
-				(number "24"
+				(number "27"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -738,7 +738,7 @@
 						)
 					)
 				)
-				(number "26"
+				(number "25"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -756,7 +756,7 @@
 						)
 					)
 				)
-				(number "28"
+				(number "23"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -774,7 +774,7 @@
 						)
 					)
 				)
-				(number "30"
+				(number "21"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -792,7 +792,7 @@
 						)
 					)
 				)
-				(number "32"
+				(number "19"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -810,7 +810,7 @@
 						)
 					)
 				)
-				(number "34"
+				(number "17"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -828,7 +828,7 @@
 						)
 					)
 				)
-				(number "36"
+				(number "15"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -846,7 +846,7 @@
 						)
 					)
 				)
-				(number "38"
+				(number "13"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -864,7 +864,7 @@
 						)
 					)
 				)
-				(number "40"
+				(number "11"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -882,7 +882,7 @@
 						)
 					)
 				)
-				(number "42"
+				(number "09"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -900,7 +900,7 @@
 						)
 					)
 				)
-				(number "44"
+				(number "07"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -918,7 +918,7 @@
 						)
 					)
 				)
-				(number "46"
+				(number "05"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -936,7 +936,7 @@
 						)
 					)
 				)
-				(number "48"
+				(number "03"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -954,7 +954,7 @@
 						)
 					)
 				)
-				(number "50"
+				(number "01"
 					(effects
 						(font
 							(size 1.27 1.27)
