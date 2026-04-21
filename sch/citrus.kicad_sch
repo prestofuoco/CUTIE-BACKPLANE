@@ -2780,7 +2780,7 @@
 	)
 	(symbol
 		(lib_id "library:ERF8-025-05.0-L-DV-L-K-TR")
-		(at 143.51 99.06 0)
+		(at 143.51 99.06 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2788,7 +2788,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "eb41f6ec-edfe-4a3f-9f77-76258d1c77b2")
 		(property "Reference" "J3"
 			(at 143.51 60.96 0)
